@@ -2,7 +2,7 @@
 title: ReviewLens
 emoji: 🔍
 colorFrom: blue
-colorTo: indigo
+colorTo: white
 sdk: gradio
 app_file: app.py
 pinned: false

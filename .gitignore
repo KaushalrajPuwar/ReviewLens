@@ -3,3 +3,5 @@
 docs/
 .env
 .python-version
+/data/raw/
+scripts/
